@@ -1,0 +1,129 @@
+{
+  "identifier" : "179CC646",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6449226242",
+    "_developerTeamID" : "9WH33Y559V",
+    "_lastSynchronizedDate" : 705939671.99675405
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21340875",
+      "localizations" : [
+
+      ],
+      "name" : "Premium Plan",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "99.99",
+          "familyShareable" : false,
+          "groupNumber" : 4,
+          "internalID" : "6449226824",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get unlimited chats & Art generation",
+              "displayName" : "Premium Plan (Annually)",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "futureai_annually",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Annually",
+          "subscriptionGroupID" : "21340875",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "17.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6449226634",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get unlimited chats & Art generation",
+              "displayName" : "Premium Plan (Monthly)",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "futureai_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly",
+          "subscriptionGroupID" : "21340875",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "49.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6449226662",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get unlimited chats & Art generation",
+              "displayName" : "Premium Plan (Quarterly)",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "futureai_quarterly",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "Quarterly",
+          "subscriptionGroupID" : "21340875",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6449226714",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get unlimited chats & Art generation",
+              "displayName" : "Premium Plan (Weekly)",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "futureai_weekly",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "Weekly",
+          "subscriptionGroupID" : "21340875",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
